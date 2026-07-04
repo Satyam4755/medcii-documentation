@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "c894c525f2d6959c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f47ceed10a922517",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a89357cf3a3a5a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medcii Documentation/Notes/Future Features.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Future Features"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e2af9ce87b7fd17",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ec3071fd92d63f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ed66031639c6984",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5ab33d8db7602e2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1010c6c2c24eebc7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ab2eb6c02251f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "e20ccb816a074b10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3684a5dadbe6c5d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-07-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-07-03"
+            }
+          },
+          {
+            "id": "8f636a927731ddfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-07-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-07-03"
+            }
+          },
+          {
+            "id": "00d3d661944bdeb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0180ebead28189d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "296f212695a9fb18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2026-07-03.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-07-03"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a89357cf3a3a5a8d",
+  "lastOpenFiles": [
+    "Medcii Documentation/Notes/Development Roadmap.md",
+    "Medcii Documentation/Frontend/Website Architecture.md",
+    "Medcii Documentation/Frontend/Patient Form Flow.md",
+    "Medcii Documentation/Frontend/Doctor Form Flow.md",
+    "Medcii Documentation/Frontend/Appointment Form Flow.md",
+    "Medcii Documentation/Deployment/Folder Structure.md",
+    "Medcii Documentation/Deployment/Deployment Architecture.md",
+    "Medcii Documentation/Database/ER Diagram.md",
+    "Medcii Documentation/Database/Database Schema.md",
+    "Medcii Documentation/Backend/Patient Backend.md",
+    "Medcii Documentation/Backend/Doctor Backend.md",
+    "Medcii Documentation/Backend/Backend Architecture.md",
+    "Medcii Documentation/Backend/Appointment Backend.md",
+    "Medcii Documentation/Backend/API Flow.md",
+    "Medcii Documentation/Architecture/Prescription Module.md",
+    "Medcii Documentation/Architecture/Patient Module.md",
+    "Medcii Documentation/Architecture/Overall System.md",
+    "Medcii Documentation/Architecture/Module Relationship.md",
+    "Medcii Documentation/Architecture/Doctor Module.md",
+    "Medcii Documentation/Architecture/Appointment Module.md",
+    "Medcii Documentation/Notes/Future Features.md",
+    "Untitled.md",
+    "Welcome.md",
+    "Medcii Documentation/Notes",
+    "Medcii Documentation/Deployment",
+    "Medcii Documentation/Frontend",
+    "Medcii Documentation/Backend",
+    "Medcii Documentation/Database",
+    "Medcii Documentation/Architecture",
+    "2026-07-03.md",
+    "Medcii Documentation/Architecture/Doctor Architecture.md",
+    "Medcii Documentation/Backend/Doctor Client Script.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Medcii Documentation/Notes",
+    "Medcii Documentation/Website"
+  ]
+}
