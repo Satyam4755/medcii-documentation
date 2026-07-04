@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medcii Documentation/Notes/Future Features.md",
+                "file": "Medcii Documentation/Website/Assets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Future Features"
+              "title": "Assets"
             }
           }
         ]
@@ -185,6 +185,17 @@
   },
   "active": "a89357cf3a3a5a8d",
   "lastOpenFiles": [
+    "Medcii Documentation/Website/Components.md",
+    "Medcii Documentation/Website/Folder Structure.md",
+    "Medcii Documentation/Website/Typography.md",
+    "Medcii Documentation/Website/Color Palette.md",
+    "Medcii Documentation/Website/Home Page.md",
+    "Medcii Documentation/Website/Website Structure.md",
+    "Medcii Documentation/Website/Assets.md",
+    "Untitled.md",
+    "Medcii Documentation/Notes/Future Features.md",
+    "Medcii Documentation/Website",
+    "Untitled",
     "Medcii Documentation/Notes/Development Roadmap.md",
     "Medcii Documentation/Frontend/Website Architecture.md",
     "Medcii Documentation/Frontend/Patient Form Flow.md",
@@ -202,27 +213,16 @@
     "Medcii Documentation/Architecture/Prescription Module.md",
     "Medcii Documentation/Architecture/Patient Module.md",
     "Medcii Documentation/Architecture/Overall System.md",
-    "Medcii Documentation/Architecture/Module Relationship.md",
-    "Medcii Documentation/Architecture/Doctor Module.md",
-    "Medcii Documentation/Architecture/Appointment Module.md",
-    "Medcii Documentation/Notes/Future Features.md",
-    "Untitled.md",
-    "Welcome.md",
     "Medcii Documentation/Notes",
     "Medcii Documentation/Deployment",
     "Medcii Documentation/Frontend",
     "Medcii Documentation/Backend",
     "Medcii Documentation/Database",
     "Medcii Documentation/Architecture",
-    "2026-07-03.md",
-    "Medcii Documentation/Architecture/Doctor Architecture.md",
-    "Medcii Documentation/Backend/Doctor Client Script.md",
     "Untitled 1.base",
     "Untitled.base",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Medcii Documentation/Notes",
-    "Medcii Documentation/Website"
+    "Untitled.canvas"
   ]
 }
